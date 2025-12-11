@@ -1,0 +1,13 @@
+.hero{
+    height: 60vh;
+    background-image: url(https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600 );
+    background-size: cover;
+    background-position: center;
+}
+.simple-bg {
+    height: 250px;
+    background-image: url('https://picsum.photos/600/350?blur=2') ;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
